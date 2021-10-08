@@ -6,4 +6,4 @@
 .vscode/launch.json
 
 api/node_modules/
-config.h
+src/config.h
