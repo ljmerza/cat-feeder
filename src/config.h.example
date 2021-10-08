@@ -1,6 +1,4 @@
 
-#define IsFahrenheit true
-
 // MQTT Topics
 #define SET_TOPIC "petfeeder"
 #define SET_TOPIC_SEND "petfeeder_feeback"
